@@ -1,0 +1,16 @@
+.ant-input:focus,
+.ant-input-focused {
+  border: 1px solid #d9d9d9;
+  border-color: none !important;
+  border-right-width: 1px !important;
+  border-radius: 8px !important;
+  outline: 0;
+  box-shadow: none !important;
+}
+
+.ant-input {
+  font-weight: 700;
+  font-size: 18px !important;
+  letter-spacing: 1px;
+  border-radius: 8px !important;
+}
